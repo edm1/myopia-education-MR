@@ -1,2 +1,4 @@
 # myopia-education-MR
-Code used to run the an educational attainment-refractive error bidirectional Mendelian Randomisation
+Code to run '_The Impact of Education on Myopia: A bidirectional Mendelian randomisation analysis in UK Biobank_'
+
+- Preprint: http://www.biorxiv.org/content/early/2017/08/04/172247 (4 August 2017)
