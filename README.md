@@ -1,4 +1,2 @@
 # myopia-education-MR
-Code to run '_The Impact of Education on Myopia: A bidirectional Mendelian randomisation analysis in UK Biobank_'
-
-- Preprint: http://www.biorxiv.org/content/early/2017/08/04/172247 (4 August 2017)
+Code to run Mountjoy _et al._ (2018) Education and myopia: assessing the direction of causality by mendelian randomisation. _BMJ_, 361, doi: https://doi.org/10.1136/bmj.k2022
